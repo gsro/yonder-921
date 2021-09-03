@@ -4,4 +4,6 @@ Hello :)
 
 Devs will say hi here:
 * Gabi
+* Marina
+* Bogdan
 * Joelle
